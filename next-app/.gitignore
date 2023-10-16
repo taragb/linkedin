@@ -34,5 +34,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# regulat env file
+# dev environment project file
 .env
+dev.db*
