@@ -5,6 +5,7 @@ learn basics of next js and react
 how to connect to / scrape sites 
 mobile friendly front end 
 use of different component libraries
+learn better use of github
 
 
 ## End Goals
