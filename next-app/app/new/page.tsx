@@ -12,8 +12,6 @@ async function createTodo(data: FormData) {
 
     await prisma.todo.create({ data: { title, complete: false } })
     redirect("/")
-
-    console.log("Hi")
 }
 
 export default function Page() {
