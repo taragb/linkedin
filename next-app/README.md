@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Interim Goals
+learn basics of next js and react
+how to connect to / scrape sites 
+mobile friendly front end 
+use of different component libraries
+
+
 ## End Goals
 * Download your linkedin contacts
 * filter for certain criteria (e.g., location, school, gender)
