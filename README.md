@@ -1,4 +1,4 @@
-# linkedin :fire
+# linkedin 🔥
 
 ## Interim Goals
 learn basics of next js and react
