@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## End Goals
+* Download your linkedin contacts
+* filter for certain criteria (e.g., location, school, gender)
+* select a couple to make intros
+
 ## Getting Started
 
 First, run the development server:
